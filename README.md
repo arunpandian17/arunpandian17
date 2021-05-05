@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @arunpandian17
 - 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...Machine learning
+- 🌱 I’m currently learning ...Machine learning 
 - 📫 How to reach me ...arunpandian7187@gmail.com
